@@ -1,6 +1,6 @@
 # main.py - Entrada principal do bot Rochinha Pé Duro
 
-from modes import ultra, omega, modo_rio_v12
+from app.modes import ultra, omega, modo_rio_v12
 
 def executar_modos():
     print("🔁 Iniciando execução dos modos ativos...")
